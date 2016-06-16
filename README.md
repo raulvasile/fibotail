@@ -1,6 +1,6 @@
-# Tail Call optimisation with Fibonacci Sequence as example
+# Tail Call optimization with Fibonacci Sequence as example
 
-This is just a simple example of how powerful can Tail Call optimisation be
+This is just a simple example of how powerful can Tail Call optimization be
 for a small problem like generating the Nth Fibonacci term.
 
 A PDF presentation is also attached to the repo.
